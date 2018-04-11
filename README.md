@@ -1,2 +1,2 @@
 # aitorrent.github.io
-webpage for pages test
+It is needed to correct the CV and also the Contact information
